@@ -1,0 +1,122 @@
+[
+    {
+        "id": "TBS",
+        "name": "TBSラジオ",
+        "ascii_name": "TBS RADIO",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/TBS/lrtrim/224x100.png"
+    },
+    {
+        "id": "QRR",
+        "name": "文化放送",
+        "ascii_name": "JOQR BUNKA HOSO",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/QRR/lrtrim/224x100.png"
+    },
+    {
+        "id": "LFR",
+        "name": "ニッポン放送",
+        "ascii_name": "JOLF NIPPON HOSO",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/LFR/lrtrim/224x100.png"
+    },
+    {
+        "id": "RN1",
+        "name": "ラジオNIKKEI第1",
+        "ascii_name": "RADIONIKKEI",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/RN1/lrtrim/224x100.png"
+    },
+    {
+        "id": "RN2",
+        "name": "ラジオNIKKEI第2",
+        "ascii_name": "RADIONIKKEI2",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/RN2/lrtrim/224x100.png"
+    },
+    {
+        "id": "INT",
+        "name": "interfm",
+        "ascii_name": "InterFM897",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/INT/lrtrim/224x100.png"
+    },
+    {
+        "id": "FMT",
+        "name": "TOKYO FM",
+        "ascii_name": "TOKYO FM",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/FMT/lrtrim/224x100.png"
+    },
+    {
+        "id": "FMJ",
+        "name": "J-WAVE",
+        "ascii_name": "J-WAVE",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/FMJ/lrtrim/224x100.png"
+    },
+    {
+        "id": "JORF",
+        "name": "ラジオ日本",
+        "ascii_name": "RF RADIO NIPPON",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/JORF/lrtrim/224x100.png"
+    },
+    {
+        "id": "BAYFM78",
+        "name": "BAYFM78",
+        "ascii_name": "bayfm78",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/BAYFM78/lrtrim/224x100.png"
+    },
+    {
+        "id": "NACK5",
+        "name": "NACK5",
+        "ascii_name": "NACK5",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/NACK5/lrtrim/224x100.png"
+    },
+    {
+        "id": "YFM",
+        "name": "ＦＭヨコハマ",
+        "ascii_name": "Fm yokohama 84.7",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/YFM/lrtrim/224x100.png"
+    },
+    {
+        "id": "IBS",
+        "name": "LuckyFM 茨城放送",
+        "ascii_name": "IBS RADIO",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/IBS/lrtrim/224x100.png"
+    },
+    {
+        "id": "JOAK",
+        "name": "NHK AM（東京）",
+        "ascii_name": "JOAK",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/JOAK/lrtrim/224x100.png?_=20260330"
+    },
+    {
+        "id": "JOAK-FM",
+        "name": "NHK FM（東京）",
+        "ascii_name": "JOAK-FM",
+        "area_id": "JP13",
+        "area_name": "TOKYO JAPAN",
+        "logo": "https://radiko.jp/v2/static/station/logo/JOAK-FM/lrtrim/224x100.png?_=20260330"
+    }
+]
