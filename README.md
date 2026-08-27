@@ -4,6 +4,9 @@ A modern desktop radio player for Radiko.
 
 Built with Python and CustomTkinter.
 
+<img width="734" height="1173" alt="radikodecj" src="https://github.com/user-attachments/assets/e80ece1a-88a9-414b-9b5b-7f7454e3e75f" />
+
+
 ## Features
 
 - 📻 Radiko station browser
