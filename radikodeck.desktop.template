@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=RadikoDeck
+Comment=Linux Radio Player
+Exec=APP_PATH/.venv/bin/python APP_PATH/main.py
+Path=APP_PATH
+Icon=radikodeck
+Terminal=false
+Categories=Audio;Player;
+StartupNotify=true
